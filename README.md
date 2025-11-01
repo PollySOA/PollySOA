@@ -29,7 +29,7 @@
 ---
 <p align="center">
   ### 🌸 Frase que me inspira
-> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
+> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
   💫 ¡Gracias por visitar mi perfil! 💫  
 </p>
 ---
