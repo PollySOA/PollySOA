@@ -19,6 +19,8 @@
   <iframe src="https://scratch.mit.edu/projects/13701368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </p>
 
+---
+
 ### 🎮 Juega Pac-Man desde mi GitHub Pages
 
 <p align="center">
@@ -26,6 +28,16 @@
     <img src="https://github.com/PollySOA/PollySOA/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
 </p>
+
+---
+
+### 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PollySOA&show_icons=true&theme=tokyonight" alt="Estadísticas de Polly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollySOA&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+---
 
 ### 🌸 Frase que me inspira
 > "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
