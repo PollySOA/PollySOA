@@ -1,9 +1,14 @@
 <!-- Encabezado animado -->
 <h1 align="center">✨ ¡Hola, soy Polly! 👋</h1>
-<h3 align="center">💻 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
+<p align="center">
+  <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
+    <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
+  </a>
+</p>
 
 ---
-
+<h3 align="center">💻 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
+---
 ### 🌈 Sobre mí
 
 - 🌱 En mis repositorios verás **proyectos de aprendizaje y práctica**  
@@ -16,20 +21,9 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
-    <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
-  </a>
-</p>
-
----
-
-
 ### 🌸 Frase que me inspira
 > "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
-
 ---
-
 <p align="center">
   💫 ¡Gracias por visitar mi perfil! 💫  
 </p>
