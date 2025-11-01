@@ -1,29 +1,40 @@
-<h1 align="center">✨ ¡Hola, soy Polly! 👋</h1>
+<header><h1 align="center">✨ ¡Hola, soy Pollyanna! 👋</h1>
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
     <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
-</p>
+</p> </header>
+<main> <section> <p align="center">
+   <h2> 🌸 Frase que me inspira: </h2> <p> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
+ </p>
+  </section>
+
 
 -  En mis repositorios verás **proyectos de aprendizaje y práctica**  
 -  Me encanta seguir perfiles de **profesionales con experiencia**  
 -  GitHub es un mundo lleno de **ideas y colaboración**  
 
-<p align="center">
-  ### 🌸 Frase que me inspira 
- "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
-  💫 ¡Gracias por visitar mi perfil! 💫  </p>
 
-### 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
-<p align="center">
+<section align="center">
+<h3> 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación </h3>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
-</p>
+  <br>
+   </section>
+  </main>
+  
+  <footer>  
+    <br>
+    <p  align="center"> 💫 ¡Gracias por visitar mi perfil! 💫 </p>
+  </footer>
+
 
