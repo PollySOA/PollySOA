@@ -19,8 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
 </p>
 ---
+
 ### 🌸 Frase que me inspira
 > "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
+
 ---
 <p align="center">
   💫 ¡Gracias por visitar mi perfil! 💫  
