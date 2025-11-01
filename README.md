@@ -6,7 +6,6 @@
 
 ### 🌈 Sobre mí
 
-- 🔭 Actualmente soy **estudiante de Desarrollo de Software**  
 - 🌱 En mis repositorios verás **proyectos de aprendizaje y práctica**  
 - 👯 Me encanta seguir perfiles de **profesionales con experiencia**  
 - 🤔 GitHub es un mundo lleno de **ideas y colaboración**  
