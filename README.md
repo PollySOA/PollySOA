@@ -9,6 +9,11 @@
 -  Me encanta seguir perfiles de **profesionales con experiencia**  
 -  GitHub es un mundo lleno de **ideas y colaboración**  
 
+<p align="center">
+  ### 🌸 Frase que me inspira 
+ "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
+  💫 ¡Gracias por visitar mi perfil! 💫  </p>
+
 ### 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -20,16 +25,5 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
 </p>
 
-
-
-
----
-<p align="center">
-  ### 🌸 Frase que me inspira
-> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
-  💫 ¡Gracias por visitar mi perfil! 💫  
-</p>
----
