@@ -20,19 +20,17 @@
 </p>
 
 ---
+### 🎮 Juega Pac-Man desde mi GitHub Pages
 
-### 🎮 Un poco de diversión: ¡Juega Pac-Man!
+[¡Haz clic aquí para jugar Pac-Man!](https://pollysoa.github.io/pacman-page/)
+
+O si quieres mostrar el botón y la imagen de Scratch:
+
 <p align="center">
-  <a href="https://scratch.mit.edu/projects/389464290/" target="_blank">
+  <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/aleen42/badges/src/scratch.svg" alt="Pac-Man Game" width="100"/>
   </a>
 </p>
-
-<p align="center">
-  👉 [Haz clic aquí para jugar Pac-Man 🎮](https://scratch.mit.edu/projects/389464290/)
-</p>
-
----
 
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
