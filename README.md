@@ -5,10 +5,10 @@
   </a>
 </p>
 
-- 🌱 En mis repositorios verás **proyectos de aprendizaje y práctica**  
-- 👯 Me encanta seguir perfiles de **profesionales con experiencia**  
-- 🤔 GitHub es un mundo lleno de **ideas y colaboración**  
----
+-  En mis repositorios verás **proyectos de aprendizaje y práctica**  
+-  Me encanta seguir perfiles de **profesionales con experiencia**  
+-  GitHub es un mundo lleno de **ideas y colaboración**  
+
 ### 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
 </p>
----
+
 
 
 
