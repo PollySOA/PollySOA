@@ -17,9 +17,11 @@
 ---
 ### 🧩 Tecnologías y herramientas que utilizo
 <p align="center">
-  <iframe src="https://scratch.mit.edu/projects/13701368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" alt="Scratch" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
 </p>
-
 ---
 ### 🌸 Frase que me inspira
 > "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
