@@ -19,12 +19,11 @@
   <iframe src="https://scratch.mit.edu/projects/13701368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </p>
 
----
 ### 🎮 Juega Pac-Man desde mi GitHub Pages
 
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
-    <img src="https://media.giphy.com/media/Td4pQb0P4lQn6/giphy.gif" alt="Pac-Man GIF" width="300"/>
+    <img src="https://github.com/PollySOA/PollySOA/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
 </p>
 
