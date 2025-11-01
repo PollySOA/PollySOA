@@ -16,7 +16,7 @@
 
 ### 🧩 Tecnologías y herramientas que utilizo
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,linux,git,github,html,css,js,vscode" />
+  <iframe src="https://scratch.mit.edu/projects/13701368/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </p>
 
 ---
