@@ -22,23 +22,11 @@
 ---
 ### 🎮 Juega Pac-Man desde mi GitHub Pages
 
-[¡Haz clic aquí para jugar Pac-Man!](https://pollysoa.github.io/pacman-page/)
-
-O si quieres mostrar el botón y la imagen de Scratch:
-
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/aleen42/badges/src/scratch.svg" alt="Pac-Man Game" width="100"/>
+    <img src="https://media.giphy.com/media/Td4pQb0P4lQn6/giphy.gif" alt="Pac-Man GIF" width="300"/>
   </a>
 </p>
-
-### 📊 Mis estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PollySOA&show_icons=true&theme=tokyonight" alt="Estadísticas de Polly" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollySOA&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
-
----
 
 ### 🌸 Frase que me inspira
 > "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
