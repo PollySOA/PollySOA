@@ -1,14 +1,52 @@
-## Hi there 👋
+<!-- Encabezado animado -->
+<h1 align="center">✨ ¡Hola, soy Polly! 👋</h1>
+<h3 align="center">💻 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
 
+---
 
-**PollySOA/PollySOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌈 Sobre mí
 
-Here are some ideas to get you started:
+- 🔭 Actualmente soy **estudiante de Desarrollo de Software**  
+- 🌱 En mis repositorios verás **proyectos de aprendizaje y práctica**  
+- 👯 Me encanta seguir perfiles de **profesionales con experiencia**  
+- 🤔 GitHub es un mundo lleno de **ideas y colaboración**  
+- 💬 Pregúntame sobre mi experiencia **aprendiendo a programar**  
 
-- 🔭 Soy estudiante de Programación 
-- 🌱 En mis repositorios verás mis proyectos ...
-- 👯  Sigo perfiles de profesionales con mucha experiencia en programacion...
-- 🤔 GitHub abre un mundo de opciones de ayudas y modelos de proyectos ...
-- 💬 Ask me about : Sobre la experiencia de aprender a programar
+---
 
+### 🧩 Tecnologías y herramientas que utilizo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,linux,git,github,html,css,js,vscode" />
+</p>
 
+---
+
+### 🎮 Un poco de diversión: ¡Juega Pac-Man!
+<p align="center">
+  <a href="https://scratch.mit.edu/projects/389464290/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/aleen42/badges/src/scratch.svg" alt="Pac-Man Game" width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  👉 [Haz clic aquí para jugar Pac-Man 🎮](https://scratch.mit.edu/projects/389464290/)
+</p>
+
+---
+
+### 📊 Mis estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PollySOA&show_icons=true&theme=tokyonight" alt="Estadísticas de Polly" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollySOA&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</p>
+
+---
+
+### 🌸 Frase que me inspira
+> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve."
+
+---
+
+<p align="center">
+  💫 ¡Gracias por visitar mi perfil! 💫  
+</p>
