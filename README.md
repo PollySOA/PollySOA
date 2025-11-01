@@ -1,4 +1,3 @@
-<!-- Encabezado animado -->
 <h1 align="center">✨ ¡Hola, soy Polly! 👋</h1>
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
@@ -6,18 +5,15 @@
   </a>
 </p>
 
----
-<h3 align="center">💻 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
----
-### 🌈 Sobre mí
-
 - 🌱 En mis repositorios verás **proyectos de aprendizaje y práctica**  
 - 👯 Me encanta seguir perfiles de **profesionales con experiencia**  
 - 🤔 GitHub es un mundo lleno de **ideas y colaboración**  
 ---
-### 🧩 Tecnologías y herramientas que utilizo
+### 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scratch/scratch-original.svg" alt="Scratch" width="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
