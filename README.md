@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
-    <img src="https://github.com/PollySOA/PollySOA/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
+    <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
 </p>
 
@@ -34,6 +34,7 @@
 ### 📊 Mis estadísticas en GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PollySOA&show_icons=true&theme=tokyonight" alt="Estadísticas de Polly" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PollySOA&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
