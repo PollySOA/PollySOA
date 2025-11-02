@@ -6,16 +6,17 @@
  </header>
 <main> <section> <p align="center">
   <section>
-   <h2> 🌸 "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </h2> 
+   <h2> 🌸   Estudiante de Desarrollo de Software | Apasionada por la programación </h2> 
+    <sub> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </sub>
+
   </section>
 
 -  En mis repositorios verás **proyectos de aprendizaje y práctica**  
-**perfiles de profesionales con experiencia**  
+  **perfiles de profesionales con experiencia**  
 -  GitHub es un mundo lleno de **ideas y colaboración**  
 
 
 <section align="center">
-<h3> 🧩 Estudiante de Desarrollo de Software | Apasionada por la programación </h3>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
