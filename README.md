@@ -1,24 +1,26 @@
-<header><h1 align="center">✨ ¡Hola, soy Pollyanna! 👋</h1>
-   <sub> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </sub>
+<p align="center"> 
+  <h1>✨ ¡Hola, soy Pollyanna! 👋</h1>
+  <sub> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </sub>
+</p>
 
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
     <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
- </header>
-<main> <section> <p align="center">
-  <section>
-   <h2> 🌸   Estudiante de Desarrollo de Software | Apasionada por la programación </h2> 
-   
-  </section>
+</p>
 
--  En mis repositorios verás **proyectos de aprendizaje y práctica**  
-  **perfiles de profesionales con experiencia**  
--  GitHub es un mundo lleno de **ideas y colaboración**  
+## 🌸 Estudiante de Desarrollo de Software | Apasionada por la programación
 
+<p align="center">
+  Actualmente, en mis repositorios encontrarás principalmente **proyectos de aprendizaje y práctica**. 
+  ¡Veo a GitHub como un mundo lleno de **ideas y colaboración** y estoy lista para contribuir!
+</p>
 
-<section align="center">
+---
 
+## 🛠️ Stack Tecnológico
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
@@ -29,13 +31,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <br>
-   </section>
-  </main>
-  
-  <footer>  
-    <br>
-    <p  align="center"> 💫 ¡Gracias por visitar mi perfil! 💫 </p>
-  </footer>
+</p>
 
+---
 
+<p align="center"> 💫 ¡Gracias por visitar mi perfil! 💫 </p>
