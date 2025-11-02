@@ -1,5 +1,5 @@
 <p align="center"> 
-  <h1>✨ ¡Hola, soy Pollyanna! 👋</h1>
+  <h1>✨ ¡Soy Pollyanna! 👋</h1>
   <sub> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </sub>
 </p>
 
