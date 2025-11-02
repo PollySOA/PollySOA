@@ -3,15 +3,14 @@
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
     <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
   </a>
-</p> </header>
+ </header>
 <main> <section> <p align="center">
-   <h2> 🌸 Frase que me inspira: </h2> <p> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." <br>
- </p>
+  <section>
+   <h2> 🌸 "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </h2> 
   </section>
 
-
 -  En mis repositorios verás **proyectos de aprendizaje y práctica**  
--  Me encanta seguir perfiles de **profesionales con experiencia**  
+**perfiles de profesionales con experiencia**  
 -  GitHub es un mundo lleno de **ideas y colaboración**  
 
 
