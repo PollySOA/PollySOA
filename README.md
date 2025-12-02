@@ -1,6 +1,7 @@
 <p align="center"> 
   <h1>✨ ¡Soy Pollyanna! 👋</h1>
-  <sub> "El código es como el arte: cuanto más lo practicas, más fluido se vuelve." </sub>
+  ## 🌸 Estudiante de Desarrollo de Software 
+  <sub> "El código es como el arte: llega su tiempo,cuanto más lo practicas, más fluido se vuelve." </sub>
 </p>
 
 <p align="center">
@@ -9,7 +10,7 @@
   </a>
 </p>
 
-## 🌸 Estudiante de Desarrollo de Software 
+
 
 <p align="center">
   Actualmente, en mis repositorios encontrarás principalmente **proyectos de aprendizaje y práctica**. 
