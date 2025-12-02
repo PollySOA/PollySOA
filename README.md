@@ -15,7 +15,6 @@
 
 <p align="center">
   Actualmente, en mis repositorios encontrarás principalmente **proyectos de aprendizaje y práctica**. 
-  ¡Veo a GitHub como un mundo lleno de **ideas y colaboración** y estoy lista para contribuir!
 </p>
 
 ---
