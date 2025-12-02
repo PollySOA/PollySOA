@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💻🧑‍💻 ¡Soy Pollyanna! 👋  
+# 🧑‍💻 ¡Hola, soy Pollyanna!  
 **"El código es como el arte: lleva su tiempo, cuanto más lo practicas, más fluido se vuelve."**
 
 ## 🌸 Estudiante de Desarrollo de Software  
