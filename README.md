@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## 🌸 Estudiante de Desarrollo de Software | Apasionada por la programación
+## 🌸 Estudiante de Desarrollo de Software 
 
 <p align="center">
   Actualmente, en mis repositorios encontrarás principalmente **proyectos de aprendizaje y práctica**. 
