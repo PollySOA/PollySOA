@@ -11,13 +11,9 @@
   <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
 </a>
 
-<br><br>
-
 Actualmente, en mis repositorios encontrarás principalmente **proyectos de aprendizaje y práctica**.  
 
 </div>
-
----
 
 ## 🛠️ Stack Tecnológico
 
