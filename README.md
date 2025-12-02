@@ -1,8 +1,9 @@
 <p align="center"> 
   <h1>✨ ¡Soy Pollyanna! 👋</h1>
+   <sub> "El código es como el arte: lleva su tiempo,cuanto más lo practicas, más fluido se vuelve." </sub>
+
   ## 🌸 Estudiante de Desarrollo de Software 
-  <sub> "El código es como el arte: llega su tiempo,cuanto más lo practicas, más fluido se vuelve." </sub>
-</p>
+ </p>
 
 <p align="center">
   <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
