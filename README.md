@@ -1,5 +1,5 @@
 <div align="center">
- 🧑‍💻  **"El código es como el arte: lleva su tiempo, cuanto más lo practicas, más fluido se vuelve."**
+ 🧑‍💻  **"El código es como el arte: lleva su tiempo, pero cuanto más lo practicas, más fluido se vuelve."**
 
 ## 🌸¡Hola, soy Pollyanna! Estudiante de Desarrollo de Software  
 
