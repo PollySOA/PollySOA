@@ -1,8 +1,8 @@
 <div align="center">
-<h1> "El código es como el arte: lleva su tiempo, pero cuanto más lo practicas, más fluido se vuelve."</h1>
+<h2> "El código es como el arte: lleva su tiempo, pero cuanto más lo practicas, más fluido se vuelve."</h2>
 </div>
 
-## 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
