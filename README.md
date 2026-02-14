@@ -1,7 +1,5 @@
 <div align="center">
- 🧑‍💻  **"El código es como el arte: lleva su tiempo, pero cuanto más lo practicas, más fluido se vuelve."**
-
-## 🌸¡Hola, soy Pollyanna! Estudiante de Desarrollo de Software  
+"El código es como el arte: lleva su tiempo, pero cuanto más lo practicas, más fluido se vuelve."
 
 <a href="https://pollysoa.github.io/pacman-page/" target="_blank">
   <img src="https://github.com/PollySOA/pacman-page/raw/main/Pacman.gif" alt="Pac-Man GIF" width="300"/>
@@ -29,5 +27,5 @@
 <div align="center">
 
  ¡Gracias por visitar mi perfil!   
-
+ Pollyanna
 </div>
