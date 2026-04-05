@@ -1,22 +1,27 @@
-# 👩‍💻 PollySOA | AI Software Engineer
+# 👩‍💻 PollySOA | Full Stack Developer & AI Specialist
 
-**Full Stack Developer especializada en IA (UPV) y Arquitectura Cloud.** Ganadora Nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
+**Desarrolladora Full Stack (Java/Angular) con especialización en IA (UPV) y Arquitectura Cloud.** Ganadora Nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
 
 ---
 
-### 🚀 Highlights
-* **AI:** Especialización 35 ECTS en la UPV (NLP, GenAI & Machine Learning).
-* **Cloud:** Experiencia demostrada en arquitecturas resilientes en AWS.
-* **Dev:** Backend sólido en Java (Spring Boot) y Frontend en Angular.
+### 💻 Full Stack Core
+* **Backend:** Dominio de **Java** y **Spring Boot** para APIs robustas y microservicios.
+* **Frontend:** Creación de interfaces dinámicas y escalables con **Angular** y TypeScript.
+* **Database:** Gestión de datos con SQL (MySQL/PostgreSQL) y NoSQL.
+
+### 🤖 AI & Cloud (The "Plus")
+* **IA:** 35 ECTS en la UPV enfocados en **NLP y Generative AI** (integración de modelos en apps).
+* **Cloud:** Diseño de infraestructura resiliente en **AWS** (ganadora nacional 2025).
+
+---
 
 ### 🛠️ Tech Stack
-`Java` `Python` `Spring Boot` `Angular` `AWS` `LangChain` `Docker`
+`Java` `Spring Boot` `Angular` `TypeScript` `AWS` `Python/LangChain` `Docker`
 
 ---
 
 ### 📂 Proyectos Destacados
-* 🤖 **[Nombre de tu mejor proyecto IA]**: Integración de LLMs y RAG.
-* ☁️ **[Proyecto AWS]**: Infraestructura escalable y serverless.
-* 💻 **[Proyecto Full-Stack]**: App end-to-end con arquitectura limpia.
+* 🌐 **[Nombre Proyecto Full Stack]**: Aplicación end-to-end con Spring Boot y Angular.
+* 🤖 **[Nombre Proyecto IA]**: Integración de LLMs en flujos de trabajo reales.
 
 [LinkedIn](TU_LINK) | [Portfolio](TU_LINK)
