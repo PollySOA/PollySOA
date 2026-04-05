@@ -1,44 +1,27 @@
 # 👩‍💻 PollySOA | Full Stack Developer & AI Specialist
 
-### _Construyendo software robusto con inteligencia y diseño a medida_ ✨
-
-Soy una desarrolladora con perfil híbrido: la estructura del **Backend (Java)**, la agilidad del **Frontend (Angular/Custom WordPress)** y la potencia de la **Inteligencia Artificial (UPV)**. Mi enfoque es crear soluciones escalables y eficientes, validadas por hitos en entornos de alta exigencia como **AWS** y el **MWC**.
+**Desarrolladora Full Stack (Java/Angular) con especialización en IA (UPV) y Arquitectura Cloud.** Ganadora Nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
 
 ---
 
-## 🚀 Hitos Destacados
-* 🥇 **Ganadora Nacional AWS GameDay 2025**: Arquitectura y resiliencia en la nube.
-* 💡 **Finalista Talent Arena (Mobile World Congress)**: Innovación técnica bajo presión.
-* 🎓 **Especialista en IA (UPV)**: 35 ECTS en Machine Learning, NLP e integración de LLMs.
+### 💻 Full Stack Core
+* **Backend:** Dominio de **Java** y **Spring Boot** para APIs robustas y microservicios.
+* **Frontend:** Creación de interfaces dinámicas y escalables con **Angular** y TypeScript.
+* **Database:** Gestión de datos con SQL (MySQL/PostgreSQL) y NoSQL.
+
+### 🤖 AI & Cloud (The "Plus")
+* **IA:** 35 ECTS en la UPV enfocados en **NLP y Generative AI** (integración de modelos en apps).
+* **Cloud:** Diseño de infraestructura resiliente en **AWS** (ganadora nacional 2025).
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-### **Full Stack Core (Java & Web)**
-* **Backend:** Java, Spring Boot, Maven, MySQL/PostgreSQL.
-* **Frontend Moderno:** Angular, TypeScript, JavaScript (ES6+).
-* **Custom Web Development:** Creación de temas **WordPress desde cero** (sin plantillas) usando **Gutenberg Blocks** y **CSS puro** para máximo rendimiento y Clean Code.
-
-### **AI & Cloud (The "Plus")**
-* **Generative AI:** Integración de modelos, Prompt Engineering y flujos con **Python**.
-* **Cloud Infrastructure:** Despliegue y optimización en **AWS** (EC2, S3, Lambda).
-* **DevOps:** Docker, Git, CI/CD básico.
+### 🛠️ Tech Stack
+`Java` `Spring Boot` `Angular` `TypeScript` `AWS` `Python/LangChain` `Docker`
 
 ---
 
-## 📂 En qué estoy trabajando ahora
-- 🛠️ **Performance-First Web:** Desarrollando interfaces a medida con CSS nativo para optimizar la carga y accesibilidad.
-- 🤖 **AI Integration:** Explorando cómo conectar microservicios Java con motores de IA generativa.
-- ☁️ **Cloud Architecture:** Aplicando los conocimientos del AWS GameDay en proyectos personales escalables.
+### 📂 Proyectos Destacados
+* 🌐 **[Nombre Proyecto Full Stack]**: Aplicación end-to-end con Spring Boot y Angular.
+* 🤖 **[Nombre Proyecto IA]**: Integración de LLMs en flujos de trabajo reales.
 
----
-
-## 📫 Conectemos
-¿Buscas una desarrolladora que entienda el código, la infraestructura y el dato?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_LINK_AQUI)
-
----
-*"Innovar, crear, comunicar y conectar con empatía"*
+[LinkedIn](TU_LINK) | [Portfolio](TU_LINK)
