@@ -1,6 +1,6 @@
 # 👩‍💻 PollySOA | Full Stack Developer & AI Specialist
 
-**Desarrolladora Full Stack (Java/Angular) con especialización en IA (UPV) y Arquitectura Cloud.** Ganadora Nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
+**Desarrolladora Full Stack (Java/Angular) con especialización en IA (UPV) y Arquitectura Cloud.** Parte del Equipo Ganador Nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
 
 ---
 
