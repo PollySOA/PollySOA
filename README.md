@@ -1,27 +1,60 @@
-# <img src="https://github.com/user-attachments/assets/ec8d4956-c8d2-4cd1-91b0-8cde0eacf5cb" width="35" vertical-align="middle" /> PollySOA | Full Stack Developer & AI Specialist
+# <img src="https://github.com/user-attachments/assets/ec8d4956-c8d2-4cd1-91b0-8cde0eacf5cb" width="38" align="center" /> ¡Hola! Soy Polly | Full Stack Developer & AI Engineer
 
-**Desarrolladora Full Stack (Java/Angular) con especialización en IA (UPV) y Arquitectura Cloud.** Parte del equipo ganador nacional **AWS GameDay 2025** & Finalista **Talent Arena MWC**.
+<p align="left">
+  <a href="https://www.linkedin.com/in/polsoadas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tu-email@dominio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
-
-### <img src="https://github.com/user-attachments/assets/87ed147a-8cfd-4e7f-a65c-fa2ecda718f6" width="25" /> Full Stack Core
-* **Backend:** Dominio de **Java** y **Spring Boot** para APIs robustas y microservicios.
-* **Frontend:** Interfaces dinámicas con **Angular**, TypeScript y **WordPress Custom (CSS puro)**.
-* **Database:** Gestión de datos con SQL (MySQL/PostgreSQL) y NoSQL.
-
-### <img src="https://github.com/user-attachments/assets/84414d11-fdfd-48db-bae2-f15c8484fd3a" width="25" /> Highlights
-* **IA:** 35 ECTS en la UPV enfocados en **NLP y Generative AI** e integración de modelos.
-* **Cloud:** Diseño de infraestructura resiliente en **AWS** (Ganadora nacional 2025).
+> 💡 **Mi enfoque:** Traduzco lógica compleja en soluciones de software escalables. Combino la robustez del ecosistema **Java/Spring** con la flexibilidad de **Angular** y el poder transformador de la **Inteligencia Artificial**.
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/5e025c3b-f3aa-44a6-a9c8-45d7cc978c11" width="25" /> Tech Stack
-`Java` `Spring Boot` `Angular` `TypeScript` `AWS` `Python/LangChain` `Docker`
+### 🏆 Hitos & Reconocimientos (Social Proof)
+* 🥇 **Ganadora Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
+* 🚀 **1º Premio ESG Valencia - Proyecto BartoCam** · Desarrollo de una solución de IA puntera y entrenamiento de modelos predictivos para resolver el gran reto estratégico planteado por el **Grupo Bertolín**.
+* 🌟 **Finalista Talent Arena en el Mobile World Congress (MWC)** · Reconocimiento al talento tecnológico emergente en uno de los escenarios tech más importantes del mundo.
+* 🎓 **Especialización en IA (UPV)** · 35 ECTS dedicados exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/0e0d1500-8aae-46ab-9cc0-49c54dee8ec3" width="25" /> Proyectos Destacados
-* 🌐 **[Nombre Proyecto Full Stack]**: Aplicación end-to-end con Spring Boot y Angular.
-* 🤖 **[Nombre Proyecto IA]**: Integración de LLMs en flujos de trabajo reales.
+### 🛠️ Tech Stack & Ecosistema
 
-[LinkedIn](TU_LINK) | [Portfolio](TU_LINK)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/WordPress_Custom-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL_&_NoSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="Databases" />
+</p>
+
+* 💻 **Full Stack Core:** Desarrollo de arquitecturas limpias, APIs REST robustas y microservicios eficientes en el backend, conectados con interfaces SPA dinámicas y maquetación UI pixel-perfect en el frontend.
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 🧠 [BartoCam](https://github.com/tu-usuario/bartocam) *(Inteligencia Artificial)*
+> **Solución galardonada con el 1º Premio en ESG Valencia para Grupo Bertolín.**
+* **Qué hace:** Sistema inteligente basado en visión computacional y modelos avanzados de Deep Learning.
+* **Stack:** Python, Modelos de Entrenamiento IA personalizados, Integración de arquitecturas eficientes.
+* **Logro clave:** Automatización y optimización de métricas de sostenibilidad en entornos industriales reales.
+
+#### 🌐 [Nombre de tu Proyecto Full Stack Principal](https://github.com/tu-usuario/proyecto-fullstack) *(Full Stack)*
+> **Aplicación End-to-End escalable y segura.**
+* **Qué hace:** Plataforma web completa orientada a resolver [menciona brevemente el problema que resuelve, ej: gestión de flujos de trabajo].
+* **Stack:** Java, Spring Boot, Angular, PostgreSQL, Docker.
+* **Logro clave:** Implementación de arquitectura desacoplada con autenticación segura y rendimiento optimizado.
+
+---
+
+### 📊 Conectemos
+¿Estás buscando una desarrolladora versátil, con mentalidad analítica y preparada para los retos de la IA y el Cloud? **Hablemos.**
+
+📩 **Email:** [tu-email@dominio.com](mailto:tu-email@dominio.com)  
+💼 **LinkedIn:** [linkedin.com/in/polsoadas](https://www.linkedin.com/in/polsoadas)  
+🕸️ **Portfolio:** [Tu Sitio Web / Portfolio](https://tu-portfolio.com)
