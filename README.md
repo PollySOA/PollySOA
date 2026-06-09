@@ -13,9 +13,8 @@
 
 * 🥇 **1º Premio ESG Valencia - Proyecto BartoCam** · Desarrollo de una solución de IA puntera y entrenamiento de modelos predictivos para resolver el gran reto estratégico planteado por el **Grupo Bertolín**.
 * 🌟 **Finalista Talent Arena en el Mobile World Congress (MWC)** · Reconocimiento al talento tecnológico emergente en uno de los escenarios tech más importantes del mundo.
-* * 🥇 **Equipo ganador Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
-* 🎓 **Especialización en IA (UPV + Samsung Innovation Campus)** · dedicados exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
-* 
+* 🥇 **Equipo Ganador Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
+* 🎓 **Especialización en IA (UPV + Samsung Innovation Campus)** · Formación avanzada enfocada exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
 
 ---
 
@@ -40,20 +39,19 @@
 
 ### 🚀 Proyectos Destacados
 
-#### 🧠 [BartoCam] https://www.linkedin.com/in/polsoadas/details/projects/ *(Inteligencia Artificial)*
-
+#### 🧠 [BartoCam](https://www.linkedin.com/in/polsoadas/details/projects/) *(Inteligencia Artificial)*
 > **Solución galardonada con el 1º Premio en ESG Valencia para Grupo Bertolín.**
 * **Qué hace:** Sistema inteligente basado en visión computacional y modelos avanzados de Deep Learning.
 * **Stack:** Python, Modelos de Entrenamiento IA personalizados, Integración de arquitecturas eficientes.
 * **Logro clave:** Automatización y optimización de métricas de sostenibilidad en entornos industriales reales.
 
-#### 🌐 [Nombre de tu Proyecto Full Stack Principal](https://github.com/tu-usuario/proyecto-fullstack) *(Full Stack)*
-> **Aplicación End-to-End escalable y segura.**
-* **Qué hace:** Plataforma web completa orientada a resolver [menciona brevemente el problema que resuelve, ej: gestión de flujos de trabajo].
-* **Stack:** Java, Spring Boot, Angular, PostgreSQL, Docker.
-* **Logro clave:** Implementación de arquitectura desacoplada con autenticación segura y rendimiento optimizado.
+#### 🌐 [Gesportin](https://github.com/polsoadas/gesportin) *(Full Stack & SCRUM)*
+> **Aplicación End-to-End escalable y segura desarrollada en entorno ágil colaborativo.**
+* **Qué hace:** Plataforma web completa orientada a la gestión integral de actividades deportivas.
+* **Stack:** Java, Spring Boot, Angular, SQL, Maven, Docker.
+* **Logro clave:** Implementación de arquitectura desacoplada con autenticación segura, modularidad y rendimiento optimizado.
 
 ---
 
 💼 **LinkedIn:** [linkedin.com/in/polsoadas](https://www.linkedin.com/in/polsoadas)  
-🕸️ **Portfolio:** [Tu Sitio Web / Portfolio](https://tu-portfolio.com)
+🕸️ **Portfolio:** [Tu Sitio Web / Portfolio](en desarrollo)
