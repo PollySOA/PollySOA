@@ -10,10 +10,12 @@
 ---
 
 ### 🏆 Hitos & Reconocimientos (Social Proof)
-* 🥇 **Ganadora Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
-* 🚀 **1º Premio ESG Valencia - Proyecto BartoCam** · Desarrollo de una solución de IA puntera y entrenamiento de modelos predictivos para resolver el gran reto estratégico planteado por el **Grupo Bertolín**.
+
+* 🥇 **1º Premio ESG Valencia - Proyecto BartoCam** · Desarrollo de una solución de IA puntera y entrenamiento de modelos predictivos para resolver el gran reto estratégico planteado por el **Grupo Bertolín**.
 * 🌟 **Finalista Talent Arena en el Mobile World Congress (MWC)** · Reconocimiento al talento tecnológico emergente en uno de los escenarios tech más importantes del mundo.
-* 🎓 **Especialización en IA (UPV)** · 35 ECTS dedicados exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
+* * 🥇 **Equipo ganador Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
+* 🎓 **Especialización en IA (UPV + Samsung Innovation Campus)** · dedicados exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
+* 
 
 ---
 
@@ -38,7 +40,8 @@
 
 ### 🚀 Proyectos Destacados
 
-#### 🧠 [BartoCam](https://github.com/tu-usuario/bartocam) *(Inteligencia Artificial)*
+#### 🧠 [BartoCam] https://www.linkedin.com/in/polsoadas/details/projects/ *(Inteligencia Artificial)*
+
 > **Solución galardonada con el 1º Premio en ESG Valencia para Grupo Bertolín.**
 * **Qué hace:** Sistema inteligente basado en visión computacional y modelos avanzados de Deep Learning.
 * **Stack:** Python, Modelos de Entrenamiento IA personalizados, Integración de arquitecturas eficientes.
@@ -52,9 +55,5 @@
 
 ---
 
-### 📊 Conectemos
-¿Estás buscando una desarrolladora versátil, con mentalidad analítica y preparada para los retos de la IA y el Cloud? **Hablemos.**
-
-📩 **Email:** [tu-email@dominio.com](mailto:tu-email@dominio.com)  
 💼 **LinkedIn:** [linkedin.com/in/polsoadas](https://www.linkedin.com/in/polsoadas)  
 🕸️ **Portfolio:** [Tu Sitio Web / Portfolio](https://tu-portfolio.com)
