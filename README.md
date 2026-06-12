@@ -1,4 +1,4 @@
-# <img src="https://github.com/user-attachments/assets/ec8d4956-c8d2-4cd1-91b0-8cde0eacf5cb" width="38" align="center" /> ¡Hola! Soy Polly | Full Stack Developer & AI Engineer
+# <img src="https://github.com/user-attachments/assets/ec8d4956-c8d2-4cd1-91b0-8cde0eacf5cb" width="38" align="center" /> ¡Hola! Soy Polly | Full Stack Developer & AI Developer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/polsoadas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
