@@ -15,6 +15,7 @@
 * 🌟 **Finalista Talent Arena en el Mobile World Congress (MWC)** · Reconocimiento al talento tecnológico emergente en uno de los escenarios tech más importantes del mundo.
 * 🥇 **Equipo Ganador Nacional AWS GameDay 2025** · Diseño e implementación de arquitectura Cloud resiliente y de alta disponibilidad bajo presión.
 * 🎓 **Especialización en IA (UPV + Samsung Innovation Campus)** · Formación avanzada enfocada exclusivamente a **NLP (Procesamiento del Lenguaje Natural)**, **Generative AI** e integración avanzada de modelos.
+* * 🎓 **FullStack (Curso Superior de Desarrollo de Software - CIPFAusias March)** Java, Angular, SpringBoot, Docker, htmlSemantic, css, cloud (aws y azure), Sistemas Informáticos, JavaScript,Next.js, SQL, valkey,VM, inglés técnico.
 
 ---
 
