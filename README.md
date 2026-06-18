@@ -45,11 +45,11 @@
 * **Stack:** Python, Modelos de Entrenamiento IA personalizados, Integración de arquitecturas eficientes.
 * **Logro clave:** Automatización y optimización de métricas de sostenibilidad en entornos industriales reales.
 
-#### 🌐 [Gesportin](https://github.com/polsoadas/gesportin) *(Full Stack & SCRUM)*
+#### 🌐 [Gesportin](https://github.com/polsoadas/gesportin) *(Full Stack & SCRUM)* Proyecto final desarrollado en equipos *Creado y gestionado por el tutor Rafael Aznar*
 > **Aplicación End-to-End escalable y segura desarrollada en entorno ágil colaborativo.**
 * **Qué hace:** Plataforma web completa orientada a la gestión integral de actividades deportivas.
 * **Stack:** Java, Spring Boot, Angular, SQL, Maven, Docker.
-* **Logro clave:** Implementación de arquitectura desacoplada con autenticación segura, modularidad y rendimiento optimizado.
+* **Logro clave entre todos los alumnos:** Implementación de arquitectura desacoplada con autenticación segura, modularidad y rendimiento optimizado.
 
 ---
 
