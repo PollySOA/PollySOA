@@ -3,6 +3,9 @@
   <img src="https://img.shields.io/badge/NEURAL_ENGINE-ACTIVE-00E5FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=0a0a0a" alt="Neural Engine" />
   <img src="https://img.shields.io/badge/AI_MODEL-GPT_4o_FINE_TUNED-7928CA?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0a0a0a" alt="AI Model" />
 </div>
+
+<br />
+
 <div align="center">
   <table>
     <tr>
@@ -15,33 +18,14 @@
     </tr>
   </table>
 </div>
-name: Metrics
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.svg
-          token: ${{ SECRETS.METRICS_TOKEN }}
-          user: polsoadas
-          template: classic
-          base: header, activity, community, repositories, metadata
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          style_header: yes
+<br />
 
-      <div align="center">
-  <img src="https://github.com/polsoadas/polsoadas/blob/master/metrics.svg" width="100%" alt="Metrics Dashboard" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/polsoadas/polsoadas/main/metrics.svg" width="100%" alt="Metrics Dashboard" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polsoadas&theme=tokyonight&hide_border=true&background=0d1117&fire=00ff66&sideLabels=true" alt="GitHub Streak" />
